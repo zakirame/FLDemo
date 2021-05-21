@@ -1,16 +1,5 @@
-# fl_storage
+# Flutter UI Demo
 
-A new Flutter project.
+Used mockup [Cloud storage app freebie](https://dribbble.com/shots/15229739-Cloud-storage-app-freebie) by Vitaly Silkin
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Cloud storage app freebie](https://cdn.dribbble.com/users/563824/screenshots/15229739/media/c436f05e62b71962272330d23cc66554.png?compress=1&resize=1600x1200)
