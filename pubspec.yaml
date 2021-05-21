@@ -1,0 +1,42 @@
+name: fl_storage
+description: Demo UI for compare React Native with Flutter.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^0.22.0
+  touchable_opacity: ^1.2.0
+  fl_chart: ^0.36.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+
+  fonts:
+    - family: AvenirNextRegular
+      fonts:
+        - asset: assets/fonts/avenirnextcyr-regular.ttf
+
+    - family: AvenirNextMedium
+      fonts:
+        - asset: assets/fonts/avenirnextcyr-medium.ttf
+
+    - family: AvenirNextDemi
+      fonts:
+        - asset: assets/fonts/avenirnextcyr-demi.ttf
+
+    - family: AvenirNextBold
+      fonts:
+        - asset: assets/fonts/avenirnextcyr-bold.ttf
